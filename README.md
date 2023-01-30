@@ -2,6 +2,8 @@
 
 bir katkisi olmasi dilegiyle laravel ile paramposun apisini paylasiyorum.
 
+http://localhost/api/payment/x
+
 suan desteklenen kisimlar<br>
  kart ekleme,listeleme,silme
 

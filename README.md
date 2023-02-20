@@ -6,6 +6,8 @@ http://localhost/api/payment/x
 
 suan desteklenen kisimlar<br>
  kart ekleme,listeleme,silme
+ 
+ - geri kalan kisimalri burada paylasmadim isteyen olursa iletisim kurabilir.
 
 kulladigim toollar<br>
 1-https://codedredd.github.io/laravel-soap/client/response/<br>
